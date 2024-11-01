@@ -7,15 +7,15 @@ colorRoles.colorIndex = {
 }
 
 colorRoles.userIndex = {
-	["%-278161083"] = "leadDeveloper", -- // jazzful
+	["278161083"] = "leadDeveloper", -- // jazzful
 	
-	["%-1376918790"] = "highDeveloper", -- // AsianMoretti
-	["%-206924927"] = "highDeveloper", -- // alauddin123
-	["%-40919030"] = "highDeveloper", -- // EagleEatsPies
+	["1376918790"] = "highDeveloper", -- // AsianMoretti
+	["206924927"] = "highDeveloper", -- // alauddin123
+	["40919030"] = "highDeveloper", -- // EagleEatsPies
 
-	["%-209206837"] = "feedbackTeam", -- // ColossalCorgis
-	["%-116300454"] = "feedbackTeam", -- // AutumnBrotherhood
-	["%-49665104"] = "feedbackTeam", -- // robloxdreamer969
+	["209206837"] = "feedbackTeam", -- // ColossalCorgis
+	["116300454"] = "feedbackTeam", -- // AutumnBrotherhood
+	["49665104"] = "feedbackTeam", -- // robloxdreamer969
 }
 
 return colorRoles
