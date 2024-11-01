@@ -10,17 +10,19 @@ colorRoles.colorIndex = {
 }
 
 colorRoles.userIndex = {
-	["278161083"] = "dev_lead", -- // jazzful
+	["278161083"] = "dev_lead", -- jazzful
 
-	["81232760"] = "dev_artist", -- / PaleoBlue
+	["81232760"] = "dev_artist", -- PaleoBlue
 	
-	["1376918790"] = "dev_high", -- // AsianMoretti
-	["206924927"] = "dev_high", -- // alauddin123
-	["40919030"] = "dev_high", -- // EagleEatsPies
+	["1376918790"] = "dev_high", -- AsianMoretti
+	["206924927"] = "dev_high", -- alauddin123
+	["40919030"] = "dev_high", -- EagleEatsPies
+	["2687957780"] = "dev_high", -- ballonsausage
 
-	["209206837"] = "team_feedback", -- // ColossalCorgis
-	["116300454"] = "team_feedback", -- // AutumnBrotherhood
-	["49665104"] = "team_feedback", -- // robloxdreamer969
+	["209206837"] = "team_feedback", -- ColossalCorgis
+	["116300454"] = "team_feedback", -- AutumnBrotherhood
+	["49665104"] = "team_feedback", -- robloxdreamer969
+	["2687957780"] = "team_feedback", -- goatku
 
 	["-1"] = "dev_lead",
 	["-2"] = "dev_high",
