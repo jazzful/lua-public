@@ -22,6 +22,7 @@ colorRoles.userIndex = {
 	["209206837"] = "team_feedback", -- ColossalCorgis
 	["116300454"] = "team_feedback", -- AutumnBrotherhood
 	["49665104"] = "team_feedback", -- robloxdreamer969
+	["293212124"] = "team_feedback", -- Frix_YTB
 	["523226605"] = "team_feedback", -- goatku
 
 	["-1"] = "dev_lead",
