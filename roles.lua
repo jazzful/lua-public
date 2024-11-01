@@ -7,7 +7,7 @@ colorRoles.colorIndex = {
 }
 
 colorRoles.userIndex = {
-	["278161083"] = "highDeveloper", -- // jazzful
+	["278161083"] = "leadDeveloper", -- // jazzful
 	
 	["1376918790"] = "highDeveloper", -- // AsianMoretti
 	["206924927"] = "highDeveloper", -- // alauddin123
