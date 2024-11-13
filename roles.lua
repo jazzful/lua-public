@@ -28,7 +28,7 @@ colorRoles.userIndex = {
 	["523226605"] = "team_feedback", -- goatku
 	["197129321"] = "team_feedback", -- takyawn
 	["22904853"] = "team_feedback", -- goose
-	["52385460"] = "team_feedback",
+	["52385460"] = "team_feedback", -- badcatt / jafar
 
 	["-1"] = "dev_lead",
 	["-2"] = "dev_high",
