@@ -17,7 +17,6 @@ colorRoles.userIndex = {
 	["1376918790"] = "dev_high", -- AsianMoretti
 	["206924927"] = "dev_high", -- alauddin123
 	["40919030"] = "dev_high", -- EagleEatsPies
-	["2687957780"] = "dev_high", -- ballonsausage
 
 	["209206837"] = "team_feedback", -- ColossalCorgis
 	["116300454"] = "team_feedback", -- AutumnBrotherhood
