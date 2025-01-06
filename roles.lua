@@ -6,6 +6,9 @@ colorRoles.colorIndex = {
 	["dev_high"] = {Color3.fromRGB(255, 148, 150), Color3.fromRGB(255, 204, 0)},
 	["dev_artist"] = {Color3.fromRGB(137, 255, 180), Color3.fromRGB(79, 255, 255)},
 	
+	["also known as alauddin123"] = {Color3.fromRGB(218, 134, 122), Color3.fromRGB(218, 134, 122)},
+	["The Kind"] = {Color3.fromRGB(255, 253, 231), Color3.fromRGB(255, 225, 0)},
+	
 	["team_feedback"] = {Color3.fromRGB(255, 221, 152), Color3.fromRGB(250, 255, 205)}
 }
 
@@ -15,8 +18,8 @@ colorRoles.userIndex = {
 	["81232760"] = "dev_artist", -- PaleoBlue
 	
 	["1376918790"] = "dev_high", -- AsianMoretti
-	["206924927"] = "dev_high", -- alauddin123
-	["40919030"] = "dev_high", -- EagleEatsPies
+	["206924927"] = "also known as alauddin123", -- alauddin123
+	["40919030"] = "The Kind", -- EagleEatsPies
 
 	["209206837"] = "team_feedback", -- ColossalCorgis
 	["116300454"] = "team_feedback", -- AutumnBrotherhood
