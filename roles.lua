@@ -2,7 +2,7 @@ local colorRoles = {}
 
 colorRoles.colorIndex = {
 	-- // {Main, Accent}
-	["dev_lead"] = {Color3.fromRGB(0, 229, 255), Color3.fromRGB(108, 255, 130)},
+	["No Raymond"] = {Color3.fromRGB(0, 255, 0), Color3.fromRGB(0, 150, 0)},
 	["dev_high"] = {Color3.fromRGB(255, 148, 150), Color3.fromRGB(255, 204, 0)},
 	["dev_artist"] = {Color3.fromRGB(137, 255, 180), Color3.fromRGB(79, 255, 255)},
 	
@@ -14,9 +14,8 @@ colorRoles.colorIndex = {
 }
 
 colorRoles.userIndex = {
-	["278161083"] = "dev_lead", -- jazzful
-
-	["81232760"] = "dev_artist", -- PaleoBlue
+	["278161083"] = "No Raymond", -- jazzful
+	["4108572498"] = "No Raymond", -- CORPORATE
 	
 	["1376918790"] = "bongbong", -- AsianMoretti
 	["206924927"] = "also known as alauddin123", -- alauddin123
