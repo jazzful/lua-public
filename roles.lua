@@ -2,7 +2,7 @@ local colorRoles = {}
 
 colorRoles.colorIndex = {
 	-- // {Main, Accent}
-	["No Raymond"] = {Color3.fromRGB(0, 255, 0), Color3.fromRGB(0, 150, 0)},
+	["No Raymond"] = {Color3.fromRGB(150, 0, 0), Color3.fromRGB(200, 0, 0)},
 	["dev_high"] = {Color3.fromRGB(255, 148, 150), Color3.fromRGB(255, 204, 0)},
 	["dev_artist"] = {Color3.fromRGB(137, 255, 180), Color3.fromRGB(79, 255, 255)},
 	
