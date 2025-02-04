@@ -10,7 +10,7 @@ colorRoles.colorIndex = {
 	["The Kind"] = {Color3.fromRGB(255, 253, 231), Color3.fromRGB(255, 225, 0)},
 	["bongbong"] = {Color3.fromRGB(169, 98, 255), Color3.fromRGB(255, 125, 181)},
 	
-	["team_feedback"] = {Color3.fromRGB(255, 221, 152), Color3.fromRGB(250, 255, 205)}
+	["Feedback"] = {Color3.fromRGB(255, 221, 152), Color3.fromRGB(250, 255, 205)}
 }
 
 colorRoles.userIndex = {
@@ -21,16 +21,16 @@ colorRoles.userIndex = {
 	["206924927"] = "also known as alauddin123", -- alauddin123
 	["40919030"] = "The Kind", -- EagleEatsPies
 
-	["209206837"] = "team_feedback", -- ColossalCorgis
-	["116300454"] = "team_feedback", -- AutumnBrotherhood
-	["49665104"] = "team_feedback", -- robloxdreamer969
-	["293212124"] = "team_feedback", -- Frix_YTB
-	["594080860"] = "team_feedback", -- sharedcoffin
-	["3983976520"] = "team_feedback", -- Kitmewuwu
-	["523226605"] = "team_feedback", -- goatku
-	["197129321"] = "team_feedback", -- takyawn
-	["22904853"] = "team_feedback", -- goose
-	["52385460"] = "team_feedback", -- badcatt / jafar
+	["209206837"] = "Feedback", -- ColossalCorgis
+	["116300454"] = "Feedback", -- AutumnBrotherhood
+	["49665104"] = "Feedback", -- robloxdreamer969
+	["293212124"] = "Feedback", -- Frix_YTB
+	["594080860"] = "Feedback", -- sharedcoffin
+	["3983976520"] = "Feedback", -- Kitmewuwu
+	["523226605"] = "Feedback", -- goatku
+	["197129321"] = "Feedback", -- takyawn
+	["22904853"] = "Feedback", -- goose
+	["52385460"] = "Feedback", -- badcatt / jafar
 
 	["-1"] = "dev_lead",
 	["-2"] = "dev_high",
