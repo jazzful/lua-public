@@ -34,7 +34,7 @@ colorRoles.userIndex = {
 
 	["-1"] = "dev_lead",
 	["-2"] = "dev_high",
-	["-3"] = "team_feedback",
+	["-3"] = "Feedback",
 }
 
 return colorRoles
