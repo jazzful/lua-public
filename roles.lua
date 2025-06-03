@@ -7,7 +7,7 @@ colorRoles.colorIndex = {
 	["dev_artist"] = {Color3.fromRGB(137, 255, 180), Color3.fromRGB(79, 255, 255)},
 	
 	["also known as alauddin123"] = {Color3.fromRGB(218, 134, 122), Color3.fromRGB(218, 134, 122)},
-	["diddenbludden"] = {Color3.fromRGB(255, 211, 251), Color3.fromRGB(169, 255, 215)},
+	["diddenbludden"] = {Color3.fromRGB(255, 184, 69), Color3.fromRGB(244, 0, 0)},
 	["The Kind"] = {Color3.fromRGB(255, 253, 231), Color3.fromRGB(255, 225, 0)},
 	["bongbong"] = {Color3.fromRGB(169, 98, 255), Color3.fromRGB(255, 125, 181)},
 	
